@@ -2,7 +2,8 @@
 
 *If you are not new to DL, this project does not help to you because the model described in the essay is quite easy to implement.*
 
-maybe update this repo with additional info later
+Maybe update this repo with additional info later, I mean I'll try to make this program easy to run...
+If you have any urgent demand, please view the works of others or contact me for this repo is now 1000% can not run without modification...
 
 # Introduction 
 2022.07.26
